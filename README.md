@@ -6,6 +6,15 @@ How can individual-level perceptions and beliefs help explain negative attitudes
 
 This project analyzes survey data to identify which factors are most strongly associated with lower democratic support, with a focus on variables that remain relevant beyond short-term economic or political shocks.
 
+## This project explores:
+- What factors are most associated with higher vs lower ratings of democracy?
+- Can we build a simple model that predicts those ratings using other survey questions?
+  
+
+## Working hypothesis
+Lower ratings of democracy may be associated with broader perceptions about institutional quality and social order (e.g., perceived corruption, trust in leaders, views on equality, or support for non-democratic alternatives).  
+This is a **descriptive hypothesis** meant to guide exploration. The analysis does not establish causality.
+
 ## Data
 The analysis uses data from the **World Values Survey – Wave 7 (v5.0)**, a large-scale international survey covering political, social, and economic attitudes.
 
